@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 
 class TicTacToe:
@@ -114,10 +108,4 @@ class TicTacToe:
                 
 game = TicTacToe()
 game.play()
-
-
-# In[ ]:
-
-
-
 
